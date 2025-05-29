@@ -1,0 +1,11 @@
+quiz_id,topic,difficulty,total_questions
+Q001,Algebra,Easy,6
+Q002,Calculus,Easy,6
+Q003,Statistics,Hard,6
+Q004,Geometry,Hard,6
+Q005,Trigonometry,Hard,6
+Q006,Algebra,Medium,6
+Q007,Calculus,Hard,6
+Q008,Statistics,Medium,6
+Q009,Geometry,Medium,6
+Q010,Trigonometry,Hard,6
